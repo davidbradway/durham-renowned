@@ -1,10 +1,10 @@
 # Durham Renowned
 
-![Durham, Renowned the World, Around: Health Wealth Progress Success](DurhamRenowned_big_inverted.jpg "Durham, Renowned the World Around")
+<img src="DurhamRenowned_big_inverted.jpg" alt="Durham, Renowned the World, Around: Health Wealth Progress Success"  width="60%" height="60%">
 
-One hundred years ago, an electric sign was unveilied in downtown Durham. This project is an edge-lit acrylic scale model of that sign. Please read the short section of Jim Wise's "Durham Tales", pages 84-86 for more context. I dream of one day building a full-scale, modern update of the sign, but for now, this model will Suffice.
+One hundred years ago, an electric sign was unveilied in downtown Durham. The project in this repository is an edge-lit acrylic scale model of that sign. Please read the short section of Jim Wise's "Durham Tales", pages 84-86 for more context. I dream of one day building a full-scale, modern update of the sign, but for now, this model will suffice.
 
-- David Bradway
+-- David Bradway
 
 ## Tools used
 
@@ -20,7 +20,7 @@ One hundred years ago, an electric sign was unveilied in downtown Durham. This p
 
 https://gitlab.oit.duke.edu/dpb6/durham-renowned
 
-![Gitlab Repository Link](qrcode_gitlab.oit.duke.edu.png "Gitlab Repository Link")
+<img src="qrcode_gitlab.oit.duke.edu.png" alt="Gitlab Repository Link"  width="30%" height="30%">
 
 
 ## License
