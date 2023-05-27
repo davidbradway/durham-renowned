@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 """
-This example displays soolid white and rainbox.
+This example displays solid white and rainbow.
 """
 import time
 import board
@@ -28,7 +28,6 @@ while True:
     pixels.show()
     # Increase or decrease to change the speed of the solid color change.
     time.sleep(5)
-    ''' 
-    '''
+
     for i in range(5):
         rainbow_cycle(0.01)  # Increase the number to slow down the rainbow
